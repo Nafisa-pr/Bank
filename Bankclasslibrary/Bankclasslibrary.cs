@@ -7,7 +7,7 @@ namespace Bankclasslibrary
         public string AccountHolderName { get; set; }
         public string SortCode { get; set; }
         public string CardNumber { get; set; }
-        public double Balance { get; protected set; }
+        public double Balance { get;  set; }
 
         public Account(string accountHolderName = "Unknown", string sortCode = "00-00-00", string cardNumber = "0000 0000 0000 0000", double balance = 0)
         {
