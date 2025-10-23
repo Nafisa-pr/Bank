@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank", "Bank\Bank.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankclasslibrary", "Bankclasslibrary\Bankclasslibrary.csproj", "{531EF91C-E00C-4E0D-850C-8998A50B8446}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "BankTest\Tests.csproj", "{2D1F08B7-7292-44D7-BF80-10323E8A1BD7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTest", "BankTest\BankTest.csproj", "{2D1F08B7-7292-44D7-BF80-10323E8A1BD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
