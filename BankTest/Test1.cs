@@ -1,6 +1,6 @@
 ﻿using Bankclasslibrary;
 
-namespace Tests 
+namespace BankTest 
 {
     [TestClass]
     public class OverdraftAccountTests
